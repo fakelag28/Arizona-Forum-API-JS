@@ -92,6 +92,11 @@ main();
 *   `getCategory(categoryId)`: Получает информацию о категории по ID.
 *   `getThreads(categoryId, page = 1)`: Получает список тем в категории.
 
+## Документация
+
+Официальная документация доступна по адресу:
+https://docs.fakelag.tech/arz_forum_api_js/general-info
+
 ## Лицензия
 
 [MIT](LICENSE)
